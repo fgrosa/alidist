@@ -1,6 +1,6 @@
 package: O2Physics
 version: "%(tag_basename)s"
-tag: "CEFP2025v1"
+tag: "CEFP2025v2"
 requires:
   - O2
   - ONNXRuntime
