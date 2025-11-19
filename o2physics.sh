@@ -1,6 +1,6 @@
 package: O2Physics
 version: "%(tag_basename)s"
-tag: "zorro-ccdb-test"
+tag: "zorro-dict"
 requires:
   - O2
   - ONNXRuntime
@@ -12,7 +12,7 @@ build_requires:
   - CMake
   - ninja-alice
   - alibuild-recipe-tools
-source: https://github.com/fgrosa/O2Physics
+source: https://github.com/AliceO2Group/O2Physics
 track_env:
   O2PHYSICS_COMPONENTS: echo ${O2PHYSICS_COMPONENTS:-install}
 incremental_recipe: |
