@@ -1,6 +1,6 @@
 package: O2Physics
 version: "%(tag_basename)s"
-tag: "zorro-ccdb"
+tag: "zorro-ccdb-test"
 requires:
   - O2
   - ONNXRuntime
