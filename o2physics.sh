@@ -1,6 +1,6 @@
 package: O2Physics
 version: "%(tag_basename)s"
-tag: "zorro-dict"
+tag: "CEFP2025v99"
 requires:
   - O2
   - ONNXRuntime
